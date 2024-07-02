@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471212688571",
+    "project_id": "senti-chat-5f464",
+    "storage_bucket": "senti-chat-5f464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471212688571:android:3ab70f071a4692337ad59e",
+        "android_client_info": {
+          "package_name": "com.example.sentichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp7RaFZHH8awzV11UhvyD8JNM7vNYQOds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
